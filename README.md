@@ -24,7 +24,6 @@ Se utiliza CRISP-DM como metodología de trabajo:
 
 - data/: datos originales y preparados.
 - notebooks/: análisis exploratorio y modelamiento.
-- src/: funciones y clases reutilizables en Python.
 - reports/: presentación ejecutiva.
 
 ## Fuente de datos
